@@ -1,4 +1,4 @@
-package com.iconnect.company_service;
+package com.iconnect.company;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
