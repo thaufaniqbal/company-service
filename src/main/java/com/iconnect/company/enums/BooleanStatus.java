@@ -1,6 +1,6 @@
 package com.iconnect.company.enums;
 
-import com.iconnect.product.exception.HttpStatusException;
+import com.iconnect.company.exception.HttpStatusException;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
